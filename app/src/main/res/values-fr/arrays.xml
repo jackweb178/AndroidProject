@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="tab_formation">
+
+        <item>Génie Logicel</item>
+        <item>Réseaux and Systèmes</item>
+        <item>Audiovisuel</item>
+        <item>Management</item>
+        <item>Sécurité</item>
+        <item>Logistique</item>
+    </string-array>
+
+    <string-array name="tab_details">
+
+        <item>Java, Asp, Base de données, UML, Linux, Admin Windows, Oracle, Php, Python, Android, Dev Web, DBA, Manager</item>
+        <item>Linux, Cloud, VoIp, Virtual Server, Java, UML, Iot, Telecoms, Admin Réseau, Admin Sys, DBA, Manager</item>
+        <item>Audiovisuel</item>
+        <item>Management</item>
+        <item>Sécurité</item>
+        <item>Logistique</item>
+    </string-array>
+</resources>
